@@ -73,7 +73,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.14.8",
-    "@babel/preset-env": "^7.14.8",
+    "@babel/preset-env": "^7.28.3",
     "@docsearch/js": "^3.0.0-alpha.42",
     "@tailwindcss/cli": "^4.0.0",
     "@tailwindcss/postcss": "^4.0.0",
