@@ -87,7 +87,7 @@
     "css-loader": "^5.2.7",
     "css-minimizer-webpack-plugin": "^3.0.2",
     "cssnano": "^5.0.8",
-    "eslint": "^8.29.0",
+    "eslint": "^9.33.0",
     "eslint-config-prettier": "^8.0.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-tailwindcss": "^3.7.1",
