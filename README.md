@@ -299,6 +299,7 @@ We also wrote integration guides for the following front-end frameworks and libr
 - [📝 Flowbite with Gatsby guide](https://flowbite.com/docs/getting-started/gatsby/)
 - [📝 Flowbite with SolidJS guide](https://flowbite.com/docs/getting-started/solid-js/)
 - [📝 Flowbite with Qwik guide](https://flowbite.com/docs/getting-started/qwik/)
+- [📝 Flowbite with TypeUI guide](https://flowbite.com/docs/getting-started/typeui/)
 
 ### Back-end Frameworks
 
