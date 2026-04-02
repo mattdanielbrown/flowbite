@@ -105,7 +105,7 @@ Now that you've configured the styles for CSS from Flowbite you can now proceed 
 
 ## Flowbite components
 
-To enable the interactive components you need to also include Flowbite's JavaScript file which you can do by either including it in the main `Layout.astro` file as a CDN file or importing the Flowbite module inside the 
+To enable the interactive components you need to also include Flowbite's JavaScript file which you can do by either including it in the main `Layout.astro` file as a CDN file or importing the Flowbite module inside the local `<script>` tag of Astro files.
 
 ### Include via CDN
 
